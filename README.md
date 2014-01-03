@@ -8,4 +8,4 @@ And just click and read from this links below.
 
 ## Contents
 
-* [Writing Modular JavaScript With AMD, CommonJS & ES Harmony]https://stackedit.io/viewer#!url=https://gist.github.com/morlay/8208604/raw/ModularJavaScript.md]
+* [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](https://stackedit.io/viewer#!url=https://gist.github.com/morlay/8240048/raw/ModularJavaScript.md)
